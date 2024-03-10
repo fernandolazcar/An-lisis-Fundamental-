@@ -2,18 +2,17 @@
 
 ## introducción
 
-<p style = "text-alingn justify";>
-Si necesitaramos conocer el valor de una empresa "X" o "Y" o quiza  "Z", nos preguntariamos como saber si vale y si es conveniente comprar acciones, invertir, comprar sus bonos, sus cualquier
-producto que nos ofrezca;  pero la pregunta aqui es ¿como averiguamos eso ?.
 
-En principio antes de comprar algo debemos conocer acerca del producto, sean unos tenis coleccionables, targetas de beisbol, naranjas cualquier variables, el conocer el producto nos ayudara a
-detectar ver si la naraja esta putrefacta, o infestada de alguna infeccion misteriosa, o si los tenis no son falsos; me recueurda sin duda a los estadadores que vende plata u oro a un precio digmos
-comun y que al final terminas timado por ingenuo, por no conocer y caer presa de la ignorancia (incluso su servidor ah sido timado).
 
-pensariamos que el mundo financiero al ser un mercado "regulado" esta libre de todo mal, pero las respuestas son variadas y siempre apunta a un rotundo no, 
-incluso en lo mas alto de mundo hay timadores, tales como Jordan Belfort, Foncci y etc. que han engañado y manipulado a miles de personas para robales el esfuerzo de su vida. 
 
-eh aqui la respuesta el conocer lo minimo escencial nos puede salvar de estos degenerados y  parasitos de nuestros y tan querido sistema capitalista 
+Si necesitáramos conocer el valor de una empresa "X", "Y" o quizá "Z", nos preguntaríamos cómo saber si vale la pena y si es conveniente comprar acciones, invertir, comprar sus bonos o cualquier otro producto que nos ofrezca; pero la pregunta aquí es ¿cómo averiguamos eso?
+
+En principio, antes de comprar algo, debemos conocer acerca del producto, ya sean unos tenis coleccionables, tarjetas de béisbol, naranjas o cualquier variable. Conocer el producto nos ayudará a detectar si la naranja está putrefacta, infestada de alguna infección misteriosa o si los tenis son falsos; esto me recuerda sin duda a los estafadores que venden plata u oro a un precio común y que al final terminas timado por ingenuo, por no conocer y caer presa de la ignorancia (incluso su servidor ha sido timado).
+
+Pensaríamos que el mundo financiero, al ser un mercado "regulado", está libre de todo mal, pero las respuestas son variadas y siempre apuntan a un rotundo no. Incluso en lo más alto del mundo hay timadores, tales como Jordan Belfort, Ponzi, entre otros, que han engañado y manipulado a miles de personas para robarles el esfuerzo de su vida.
+
+He aquí la respuesta: conocer lo mínimo esencial nos puede salvar de estos degenerados y parásitos de nuestro tan querido sistema capitalista.
+
 
 ## ¿que es el analisis fundamental?
 
