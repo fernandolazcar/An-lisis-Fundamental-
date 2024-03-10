@@ -2,6 +2,7 @@
 
 ## introducción
 
+<p style = "text-alingn justify";>
 Si necesitaramos conocer el valor de una empresa "X" o "Y" o quiza  "Z", nos preguntariamos como saber si vale y si es conveniente comprar acciones, invertir, comprar sus bonos, sus cualquier
 producto que nos ofrezca;  pero la pregunta aqui es ¿como averiguamos eso ?.
 
@@ -18,13 +19,13 @@ eh aqui la respuesta el conocer lo minimo escencial nos puede salvar de estos de
 
 BBVA y cito lo define como: 
 
-"Conjunto de técnicas de estudio que permiten predecir el 
+_"Conjunto de técnicas de estudio que permiten predecir el 
 comportamiento futuro del precio de una acción, reduciendo al 
-máximo el factor riesgo”
+máximo el factor riesgo”_
 
 y
 
-
+<div/>
 
 
 fuentes : 
