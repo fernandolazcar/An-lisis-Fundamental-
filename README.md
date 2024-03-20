@@ -44,24 +44,31 @@ Entonces podemos entender que el analisis fundamental busca apreciar el valor pr
 Asi que el Analisis fundamental ayuda a enteder el valor de algo en este caso las empresas y sin duda alguna es una herramienta muy poderosa que fue introduccida en 1934 en la obra titulada _"Security Analysis"_[^3] por Benjamin Grajam y David Dodd que fue los cimientos para conocer hoy en dia lo que es el analisis fundamental , entonces hay estar agradecidos con estos y muchos mas señores que hay aportado a la ciencia economica. 
 
 
+Para poder estudiar dejo una interpretación de analisis financiero el libro de [Contabilidad Cinanciera de Gerardo Guajardo](https://clea.edu.mx/biblioteca/files/original/e23f70cdbd8ebb07228b167f869c522d.pdf) ubicado en la pagina 160.
+
+
 
 <div style="text-align: center;">
   <img src="https://tradersarea.pl/wp-content/uploads/2017/01/Benjamin_Graham_foto.jpg" width="250" height="300" alt="Benjamin Graham" align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/David_LeFevre_Dodd.jpg/1920px-David_LeFevre_Dodd.jpg" width="200" height="300" alt="David Dodd" align="right">
 </div>
-
-
-
-
-
-
-
-
-
+<br> <!-- Salto de línea -->
+<br> <!-- Salto de línea -->
+<br> <!-- Salto de línea -->
+<br> <!-- Salto de línea -->
+<br> <!-- Salto de línea -->
+<br> <!-- Salto de línea -->
+<br> <!-- Salto de línea -->
+<br> <!-- Salto de línea -->
+<br> <!-- Salto de línea -->
+<br> <!-- Salto de línea -->
+<br> <!-- Salto de línea -->
+<br> <!-- Salto de línea -->
+<br> <!-- Salto de línea -->
+<br> <!-- Salto de línea -->
+<br> <!-- Salto de línea -->
 
 [^1]:https://acortar.link/V9Hb4w
 [^2]:https://acortar.link/YOWBHe
 [^3]:https://acortar.link/wPpnzg
 
-fuentes : 
-https://clea.edu.mx/biblioteca/files/original/e23f70cdbd8ebb07228b167f869c522d.pdf
