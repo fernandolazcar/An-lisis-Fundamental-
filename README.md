@@ -1,4 +1,4 @@
-# Analisis Fundamental 
+# Analisis Fundamental / Fundametal Analysis
 
 ## introducción
 
@@ -12,6 +12,16 @@ En principio, antes de comprar algo, debemos conocer acerca del producto, ya sea
 Pensaríamos que el mundo financiero, al ser un mercado "regulado", está libre de todo mal, pero las respuestas son variadas y siempre apuntan a un rotundo no. Incluso en lo más alto del mundo hay timadores, tales como Jordan Belfort, Ponzi, entre otros, que han engañado y manipulado a miles de personas para robarles el esfuerzo de su vida.
 
 He aquí la respuesta: conocer lo mínimo esencial nos puede salvar de estos degenerados y parásitos de nuestro tan querido sistema capitalista.
+
+##Introuduction 
+
+If we need to know the value of one enterprise “x”, “y” or perhaps “z”, we wondering how to know if it's worth it and if it's convenient to buy stocks, investment, buy treasury bond or anything product that offer to us; but the question here is, how do we research that?
+
+On beginning, before to buy something, we should know about of the product, even if are a sneakers collectible, a baseball card, oranges o anything variable.
+Have Knowledge about the product we'll help us to detect if the orange is rotten or infected for a mysterious disease or if the sneakers are fake or not; this reminds me and I don't doubt it to the  scammers like Jordan Belford, Carlo Ponzi, Bernard Madoff among other characters notables that they cheated and manipulate a thousand of people for steal the effort of their life.
+
+Well, here is the answer: identify the essential minimum, could save us  these degenerates and parasites of our beloved capital system.
+
 
 
 ## ¿que es el analisis fundamental?
