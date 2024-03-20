@@ -13,7 +13,7 @@ Pensaríamos que el mundo financiero, al ser un mercado "regulado", está libre 
 
 He aquí la respuesta: conocer lo mínimo esencial nos puede salvar de estos degenerados y parásitos de nuestro tan querido sistema capitalista.
 
-## Introuduction 
+## Introduction 
 
 If we need to know the value of one enterprise “X”, “Y” or perhaps “Z”, we wondering how to know if it's worth it and if it's convenient to buy stocks, investment, buy treasury bond or anything product that offer to us; but the question here is, how do we research that?
 
