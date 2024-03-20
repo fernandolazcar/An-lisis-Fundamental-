@@ -15,7 +15,7 @@ He aquí la respuesta: conocer lo mínimo esencial nos puede salvar de estos deg
 
 ## Introuduction 
 
-If we need to know the value of one enterprise “x”, “y” or perhaps “z”, we wondering how to know if it's worth it and if it's convenient to buy stocks, investment, buy treasury bond or anything product that offer to us; but the question here is, how do we research that?
+If we need to know the value of one enterprise “X”, “Y” or perhaps “Z”, we wondering how to know if it's worth it and if it's convenient to buy stocks, investment, buy treasury bond or anything product that offer to us; but the question here is, how do we research that?
 
 On beginning, before to buy something, we should know about of the product, even if are a sneakers collectible, a baseball card, oranges o anything variable.
 Have Knowledge about the product we'll help us to detect if the orange is rotten or infected for a mysterious disease or if the sneakers are fake or not; this reminds me and I don't doubt it to the  scammers like Jordan Belford, Carlo Ponzi, Bernard Madoff among other characters notables that they cheated and manipulate a thousand of people for steal the effort of their life.
