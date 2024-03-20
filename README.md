@@ -33,7 +33,7 @@ _"Conjunto de técnicas de estudio que permiten predecir el
 comportamiento futuro del precio de una acción, reduciendo al 
 máximo el factor riesgo”_ 
 
-De acuerdo con el Manual de Análisis Fundamental de Alehandro Scherk [^2]
+Y de acuerdo con el Manual de Análisis Fundamental de Alehandro Scherk [^2]
 
 _"... El análisis fundamental, como su nombre indica, se centra en los fundamentos aportados por diversas ramas de estudio económico (macroeconomía, microeconomía, estrategia empresarial, contabilidad, 
 análisis de ratios bursátiles y valoración empresarial entre otras..."_
