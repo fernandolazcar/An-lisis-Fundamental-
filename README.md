@@ -26,19 +26,34 @@ Well, here is the answer: identify the essential minimum, could save us  these d
 
 ## ¿que es el analisis fundamental?
 
-BBVA y cito lo define como: 
+BBVA[^1] y cito lo define como: 
+
 
 _"Conjunto de técnicas de estudio que permiten predecir el 
 comportamiento futuro del precio de una acción, reduciendo al 
-máximo el factor riesgo”_
+máximo el factor riesgo”_ 
 
-y
+De acuerdo con el Manual de Análisis Fundamental de Alehandro Scherk [^2]
 
-<div/>
+_"... El análisis fundamental, como su nombre indica, se centra en los fundamentos aportados por diversas ramas de estudio económico (macroeconomía, microeconomía, estrategia empresarial, contabilidad, 
+análisis de ratios bursátiles y valoración empresarial entre otras..."_
 
+
+Entonces podemos entender que el analisis fundamental busca apreciar el valor propio de un activo, desde un punto de vista completamente teorico, usando razonamientos matematicos, economicos, contables, macroeconomicos, microeconomicos etc. y por supuesto que es distante al Analisis Tecnico que se enfoca en patrones de precios y tendencias (astrologia para economistas como un conocido mio le llama).
+
+Asi que el Analisis fundamental ayuda a enteder el valor de algo en este caso las empresas y sin duda alguna es una herramienta muy poderosa que fue introduccida en 1934 en la obra titulada _"Security Analysis"_[^3] por Benjamin Grajam y David Dodd que fue los cimientos para conocer hoy en dia lo que es el analisis fundamental , entonces hay estar agradecidos con estos y muchos mas señores que hay aportado a la ciencia economica. 
+
+
+
+
+
+
+
+
+
+[^1]:https://www.bbva.es/estaticos/mult/Curso_analisis_fundamental_tcm924-530363.pdf#:~:text=Definici%C3%B3n%20de%20An%C3%A1lisis%20Fundamental%20%283%29%20Herramienta%20que%20nos,de%20M%26A%2C%20Operaciones%20Corporativas%20o%20c%2Fv%20de%20activos
+[^2]:https://www.montartuempresa.com/wp-content/uploads/2015/10/manual_analisis_fundamental.pdf
+[^3]:https://drive.google.com/file/d/0B8yPeYHl2ueSTEpmOGZVXzVFZ00/view?resourcekey=0-xXq8uLu_t2JzaU4KmyidSg
 
 fuentes : 
-
 https://clea.edu.mx/biblioteca/files/original/e23f70cdbd8ebb07228b167f869c522d.pdf
-
-https://www.bbva.es/estaticos/mult/Curso_analisis_fundamental_tcm924-530363.pdf#:~:text=Definici%C3%B3n%20de%20An%C3%A1lisis%20Fundamental%20%E2%80%9CConjunto%20de%20t%C3%A9cnicas%20de,una%20acci%C3%B3n%2C%20reduciendo%20al%20m%C3%A1ximo%20el%20factor%20riesgo%E2%80%9D
