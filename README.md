@@ -44,19 +44,19 @@ Entonces podemos entender que el analisis fundamental busca apreciar el valor pr
 Asi que el Analisis fundamental ayuda a enteder el valor de algo en este caso las empresas y sin duda alguna es una herramienta muy poderosa que fue introduccida en 1934 en la obra titulada _"Security Analysis"_[^3] por Benjamin Grajam y David Dodd que fue los cimientos para conocer hoy en dia lo que es el analisis fundamental , entonces hay estar agradecidos con estos y muchos mas señores que hay aportado a la ciencia economica. 
 
 
-1
-<image
-  src="https://tradersarea.pl/wp-content/uploads/2017/01/Benjamin_Graham_foto.jpg" width="250" height="300"
-  alt="Descripción de la imagen"
-  caption="Benjamin Grajam">
 
-2
-<div class="circular">
-  <img   src="https://tradersarea.pl/wp-content/uploads/2017/01/Benjamin_Graham_foto.jpg" width="250" height="300"" />
+<div style="text-align: center;">
+  <img src="https://tradersarea.pl/wp-content/uploads/2017/01/Benjamin_Graham_foto.jpg" width="250" height="300" alt="Benjamin Graham" align="left">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/David_LeFevre_Dodd.jpg/1920px-David_LeFevre_Dodd.jpg" width="200" height="300" alt="David Dodd" align="right">
 </div>
 
-3
-![https://tradersarea.pl/wp-content/uploads/2017/01/Benjamin_Graham_foto.jpg](https://i.imgur.com/np7Mvmk.png)
+
+
+
+
+
+
+
 
 
 [^1]:https://acortar.link/V9Hb4w
