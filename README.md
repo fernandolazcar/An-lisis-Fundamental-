@@ -45,6 +45,10 @@ Asi que el Analisis fundamental ayuda a enteder el valor de algo en este caso la
 
 
 
+<image
+  src="https://tradersarea.pl/wp-content/uploads/2017/01/Benjamin_Graham_foto.jpg"
+  alt="Descripción de la imagen"
+  caption="Benjamin Grajam">
 
 
 
