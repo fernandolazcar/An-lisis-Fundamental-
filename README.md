@@ -59,9 +59,9 @@ Asi que el Analisis fundamental ayuda a enteder el valor de algo en este caso la
 ![https://tradersarea.pl/wp-content/uploads/2017/01/Benjamin_Graham_foto.jpg](https://i.imgur.com/np7Mvmk.png)
 
 
-[^1]:https://www.bbva.es/estaticos/mult/Curso_analisis_fundamental_tcm924-530363.pdf#:~:text=Definici%C3%B3n%20de%20An%C3%A1lisis%20Fundamental%20%283%29%20Herramienta%20que%20nos,de%20M%26A%2C%20Operaciones%20Corporativas%20o%20c%2Fv%20de%20activos
-[^2]:https://www.montartuempresa.com/wp-content/uploads/2015/10/manual_analisis_fundamental.pdf
-[^3]:https://drive.google.com/file/d/0B8yPeYHl2ueSTEpmOGZVXzVFZ00/view?resourcekey=0-xXq8uLu_t2JzaU4KmyidSg
+[^1]:https://acortar.link/V9Hb4w
+[^2]:https://acortar.link/YOWBHe
+[^3]:https://acortar.link/wPpnzg
 
 fuentes : 
 https://clea.edu.mx/biblioteca/files/original/e23f70cdbd8ebb07228b167f869c522d.pdf
