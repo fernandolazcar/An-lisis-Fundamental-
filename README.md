@@ -49,16 +49,19 @@ Para poder estudiar dejo una interpretación de analisis financiero el libro de 
 ## What is the Fundamental Analysis?
 
 
-BBVA defines it and quote reference. 
+BBVA[^1] defines it and quote reference. 
 _“Is the techniques conjuncts of study that allow make forecast of the behavior forward of price for each stock, reducing the maximum risk factor”_
 
-And conform the Manual of Fundamental Analysis by Alejando Scherk
+And conform the Manual of Fundamental Analysis by Alejando Scherk [^2]
 
 _“…The Fundamental Analysis, as the name suggests, center on fundamental contributed by various branches of the Economic study (macroeconomics, microeconomics, enterprises strategy, accounting , stock market ratio analysis and enterprises value among others )…”_ 
 
 So can understand the Fundamental Analysis seek to appreciate the value of a company, since from the point of view complete theory, using the mathematical reasoning, economics, accounting, macroeconomics, microeconomics and more. And of curse is distance from the Technik Analysis that are more focused on patrons of price and trends (astrology for economics like an acquaintance of mine call it ).
 
-Then the Fundamental Analysis help to understand the value of something in this case of company and without doubt  is a tool very powerful that was introduced in 1934 in the work titled “Security Analysis” by Benjamin Grajam and David Dodd what were the foundations like know today that is the Fundamental Analysis, so we should  grateful  with them and a lots of persons that did contributed to the economic science.  
+Then the Fundamental Analysis help to understand the value of something in this case of company and without doubt  is a tool very powerful that was introduced in 1934 in the work titled “Security Analysis”[^3]  by Benjamin Grajam and David Dodd what were the foundations like know today that is the Fundamental Analysis, so we should  grateful  with them and a lots of persons that did contributed to the economic science.  
+
+For can study I left a book about interpretation of Financial Analysis [“Accounting Financial by Gerardo Guarjardo“](https://clea.edu.mx/biblioteca/files/original/e23f70cdbd8ebb07228b167f869c522d.pdf)  located on the page 160.
+ 
 
 
 
