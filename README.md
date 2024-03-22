@@ -46,6 +46,21 @@ Asi que el Analisis fundamental ayuda a enteder el valor de algo en este caso la
 
 Para poder estudiar dejo una interpretación de analisis financiero el libro de [Contabilidad Cinanciera de Gerardo Guajardo](https://clea.edu.mx/biblioteca/files/original/e23f70cdbd8ebb07228b167f869c522d.pdf) ubicado en la pagina 160.
 
+## What is the Fundamental Analysis?
+
+
+BBVA defines it and quote reference. 
+_“Is the techniques conjuncts of study that allow make forecast of the behavior forward of price for each stock, reducing the maximum risk factor”_
+
+And conform the Manual of Fundamental Analysis by Alejando Scherk
+
+_“…The Fundamental Analysis, as the name suggests, center on fundamental contributed by various branches of the Economic study (macroeconomics, microeconomics, enterprises strategy, accounting , stock market ratio analysis and enterprises value among others )…”_ 
+
+So can understand the Fundamental Analysis seek to appreciate the value of a company, since from the point of view complete theory, using the mathematical reasoning, economics, accounting, macroeconomics, microeconomics and more. And of curse is distance from the Technik Analysis that are more focused on patrons of price and trends (astrology for economics like an acquaintance of mine call it ).
+
+Then the Fundamental Analysis help to understand the value of something in this case of company and without doubt  is a tool very powerful that was introduced in 1934 in the work titled “Security Analysis” by Benjamin Grajam and David Dodd what were the foundations like know today that is the Fundamental Analysis, so we should  grateful  with them and a lots of persons that did contributed to the economic science.  
+
+
 
 
 <div style="text-align: center;">
