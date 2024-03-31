@@ -63,6 +63,8 @@ Then the Fundamental Analysis help to understand the value of something in this 
 For can study I left a book about interpretation of Financial Analysis [“Accounting Financial by Gerardo Guarjardo“](https://clea.edu.mx/biblioteca/files/original/e23f70cdbd8ebb07228b167f869c522d.pdf)  located on the page 160.
 
 Entonces vamos a el caso, realizaremos un analisis fundamenta de Grupo Bimbo para el 1T22 que dejare en la descripción.
+
+
 So lets get to the case, well we'll make a Fundamental Analysis of Grup Bimbo for  1Q22 that i leave in the description.
 
 
