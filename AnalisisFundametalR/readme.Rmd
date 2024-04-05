@@ -1,6 +1,6 @@
 Okey para la comprensión y elaboración del análisis fundamental debemos de contemplar, rublos tales como el análisis del activo, el análisis sectorial, bursátil y análisis macroeconómico e internacional, gracias al Manual de Análisis Fundamental escrito por Alejandro Scherck, podemos encontrar que la definición del análisis tiene diversas ramas del estudio económico, tanto en el área microeconómica, macroeconómica, contabilidad, ratios bursátiles, valoración empresarial entre más. 
 
-En primer paso desarrollaremos lo que son los Ratios Bursátiles que dentro del análisis fundamental se utilizan para hacer cálculos simples, que son simple divisiones, multiplicaciones, estos cálculos los lo podemos encontrar en algún segmento de algún libro sobre el análisis financiero  en entonces vamos a desarrollar el caso práctico.
+En primer paso desarrollaremos lo que son los Ratios Bursátiles que dentro del análisis fundamental se utilizan para hacer cálculos simples, que son simple divisiones, multiplicaciones, sumas y restas, estos cálculos los  podemos encontrar en algún segmento de algún libro sobre el análisis financiero  en entonces vamos a desarrollar el caso práctico.
 
 
 Capitalización Bursátil: es el valor total de la compañía, es decir el valor total en precios de mercado contemplado las acciones de la compañía.
